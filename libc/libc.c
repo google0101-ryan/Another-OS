@@ -1,0 +1,1 @@
+void pre_main() {}
